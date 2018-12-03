@@ -17,8 +17,7 @@ void main () {
     printf("\n----------------------------------------------------------\n");
     printf("\E[33mBem vindos ao sistema de busca de ocorrências\E[0m\n");
     printf("----------------------------------------------------------\n");
-    
-    
+      
     for(posicao = 0; posicao < 10; posicao++)
     {
         printf("Digite o valor da posição %d:", posicao + 1);
